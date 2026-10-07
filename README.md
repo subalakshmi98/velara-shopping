@@ -1,3 +1,4 @@
+# velara-shopping
 # VELARA — React Clothing Store
 
 A polished, responsive fashion storefront inspired by the editorial visual language of the supplied reference image: monochrome layouts, cobalt accents, large typography, fashion photography, and an editorial commerce flow.
